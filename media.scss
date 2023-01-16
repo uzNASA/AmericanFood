@@ -1,0 +1,256 @@
+
+//          responsive max: 1920; min:1280;
+
+@media screen and (max-width: 1921px)and (min-width:1280px){
+
+      //  responsive header 1920
+
+      header{
+            height: 100vh;
+            padding: 50px;    
+
+            //  responsive nav 1920
+
+            nav{
+                  height: 200px;
+                  .nav-second{
+                        .nav-tepa{
+                              width: 450px;
+                              padding: 0;
+                              img{
+                                    width: 40px;
+                                    height: 40px;
+                              }
+                              p{
+                                    font-size: large;
+                                    transform: translateY(-13px);
+                              }
+                        }
+                        .nav-past{
+                              width: 510px;
+                              position: absolute;
+                              transform: translateX(-300px);
+                              align-items: center;
+                              margin-top: 5px;
+                              a{
+                                    font-size: larger;
+                                    font-weight: 700;
+                                    margin-left: 30px;
+                              }
+                        }
+                  }
+            }
+            .img-div{
+                  margin: 0;
+                  margin-right: 175px;
+                  .img{
+                        width: 1000px;
+                        height: 728px;
+                  }
+            }
+            .narx{
+                  transform: translateX(1050px);
+            }
+            h5{
+                  width: 550px;
+                  height: 50px;
+                  padding: 15px;
+                  font-size: large;
+                  margin: 0;
+                  margin-top: 25px;
+            }
+            .head-text{
+                  font-size: 150px;
+                  margin: 0;
+                  margin-top: 15px;
+            }
+            .head-text1{
+                  margin: 0;
+                  margin-top: 25px;
+                  font-size: 75px;
+            }
+      }
+      //    responsive 1920 end
+//    center responsive 1920
+
+      .center{
+
+            // always responsive 1920
+
+            .always{
+                  width: 100%;
+                  height: 80vh;
+                  // always top 1920
+                  .always-tepa{
+                        // always LR 1920
+                        .always-ong, .always-chap{
+                              // padding: 100px; 
+                              padding-top: 150px;
+                              padding-right: 0;
+
+                        } 
+                        // always right div 1920
+                        .ong-div{
+                              width: 620px;
+                              height: 429px;
+                              padding: 25px;
+                              p{
+                                    font-size: large;
+                              }
+                              h3{
+                                    font-size:x-large;
+                              }
+                        }
+                        // always left divs 1920
+                        .chap-img, .chap-img1{    
+                              width: 620px;
+                              height: 214px;
+                              margin: 0;
+                              padding: 25px;
+                              margin-left: 10px;
+                        }
+                        .chap-img{
+                              margin-top: 25px;
+                              p{
+                                    font-size: large;
+                              }
+                              h3{
+                                    font-size: x-large;
+                                    margin-top: 5px;
+                              }
+                              // always left div two 1920
+                        }
+                        .chap-img1{
+                              p{
+                                    margin-top: 25px;
+                                    font-size: large;
+                              }
+                              h3{
+                                    font-size: x-large;
+                              }
+                        }
+                  }
+                  // always  bottom 1920
+                  .always-past{
+                        a{
+                              padding-top: 0;
+                              padding-top: 15px;
+                              width: 350px;
+                              height: 50px;
+                              font-size: larger;
+                              margin-left: 775px;
+                        }
+                  }
+            } 
+
+            // choose 1920
+            .choose{
+                  // choose top 1920
+                  .choose-tepa{
+                        p{
+                              margin-left: 440px;
+                        }
+                  }
+                  // choose bottom 1920
+                  .choose-past{
+                        .choose{
+                              height: 500px;
+                        }
+                        // choose cards 1920
+                        .first, .second, .third{
+                              .first-top, .second-top{
+                                    height: 400px;
+                                    background-size: auto;
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                              }
+                        }
+                  }
+            }
+
+            // discover styling 1920
+
+            .discover{
+                  margin-top: 100px;
+            }
+
+            // reservation styling 1920
+
+            .reservation{
+                  height: 100vh;
+                  margin-top: 25px;
+                  .reser-img1{
+                        margin-top: 10    0px;
+                        margin-left: 150px;
+                  }
+                  .reser-img2{
+                        margin-top: 350px;
+                        transform: translateX(1665px);
+                  }
+                  // reservation top 1920
+                  .reser-top{
+                        h3{
+                              font-size: x-large;
+                        }
+                  }
+                  // inputs styling 1920
+                  .reser-bottom{
+                        height: 700px;
+                        input{
+                              margin-left: 100px;
+                        }
+                        .input-div, .input-div1{
+                              margin-top: 150px; 
+                        }
+                        .input-div{
+                              input{
+                                    width: 500px;
+                                    height: 70px;
+                                    margin-left: 150px;
+                              }
+                        }
+                        .input-div1{
+                              input{
+                                    width: 500px;
+                                    height: 70px;
+                              }
+                        }
+                  }
+            }
+      }
+
+      // footer styling 1920
+
+      footer{
+            .footer{
+                  width: 100%;
+                  height: 450px;
+                  margin: 0;
+                  // foot left 1920
+                  .foot-one{
+                        padding: 50px;
+                        img{
+                              margin-top: 25px;
+                        }
+                        .foot-text{
+                              display: block;
+                              margin-top: 50px;
+                        }
+                        .foot-matn{
+                              margin-top: 150px;
+                        }
+                  }
+                  // foot right 1920
+                  .foot-two{
+                        padding: 50px;
+                        .foot-div{
+                              margin-top: 120px;
+                              margin-right: 100px;
+                        }
+                        .icon{
+                              margin-left: 0px;
+                        }
+                  }
+            }
+      }
+}

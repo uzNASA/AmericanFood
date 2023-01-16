@@ -1,0 +1,189 @@
+@media screen and (max-width: 1921px) and (min-width: 1280px) {
+  header {
+    height: 100vh;
+    padding: 50px;
+  }
+  header nav {
+    height: 200px;
+  }
+  header nav .nav-second .nav-tepa {
+    width: 450px;
+    padding: 0;
+  }
+  header nav .nav-second .nav-tepa img {
+    width: 40px;
+    height: 40px;
+  }
+  header nav .nav-second .nav-tepa p {
+    font-size: large;
+    transform: translateY(-13px);
+  }
+  header nav .nav-second .nav-past {
+    width: 510px;
+    position: absolute;
+    transform: translateX(-300px);
+    align-items: center;
+    margin-top: 5px;
+  }
+  header nav .nav-second .nav-past a {
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 30px;
+  }
+  header .img-div {
+    margin: 0;
+    margin-right: 175px;
+  }
+  header .img-div .img {
+    width: 1000px;
+    height: 728px;
+  }
+  header .narx {
+    transform: translateX(1050px);
+  }
+  header h5 {
+    width: 550px;
+    height: 50px;
+    padding: 15px;
+    font-size: large;
+    margin: 0;
+    margin-top: 25px;
+  }
+  header .head-text {
+    font-size: 150px;
+    margin: 0;
+    margin-top: 15px;
+  }
+  header .head-text1 {
+    margin: 0;
+    margin-top: 25px;
+    font-size: 75px;
+  }
+  .center .always {
+    width: 100%;
+    height: 80vh;
+  }
+  .center .always .always-tepa .always-ong, .center .always .always-tepa .always-chap {
+    padding-top: 150px;
+    padding-right: 0;
+  }
+  .center .always .always-tepa .ong-div {
+    width: 620px;
+    height: 429px;
+    padding: 25px;
+  }
+  .center .always .always-tepa .ong-div p {
+    font-size: large;
+  }
+  .center .always .always-tepa .ong-div h3 {
+    font-size: x-large;
+  }
+  .center .always .always-tepa .chap-img, .center .always .always-tepa .chap-img1 {
+    width: 620px;
+    height: 214px;
+    margin: 0;
+    padding: 25px;
+    margin-left: 10px;
+  }
+  .center .always .always-tepa .chap-img {
+    margin-top: 25px;
+  }
+  .center .always .always-tepa .chap-img p {
+    font-size: large;
+  }
+  .center .always .always-tepa .chap-img h3 {
+    font-size: x-large;
+    margin-top: 5px;
+  }
+  .center .always .always-tepa .chap-img1 p {
+    margin-top: 25px;
+    font-size: large;
+  }
+  .center .always .always-tepa .chap-img1 h3 {
+    font-size: x-large;
+  }
+  .center .always .always-past a {
+    padding-top: 0;
+    padding-top: 15px;
+    width: 350px;
+    height: 50px;
+    font-size: larger;
+    margin-left: 775px;
+  }
+  .center .choose .choose-tepa p {
+    margin-left: 440px;
+  }
+  .center .choose .choose-past .choose {
+    height: 500px;
+  }
+  .center .choose .choose-past .first .first-top, .center .choose .choose-past .first .second-top, .center .choose .choose-past .second .first-top, .center .choose .choose-past .second .second-top, .center .choose .choose-past .third .first-top, .center .choose .choose-past .third .second-top {
+    height: 400px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .center .discover {
+    margin-top: 100px;
+  }
+  .center .reservation {
+    height: 100vh;
+    margin-top: 25px;
+  }
+  .center .reservation .reser-img1 {
+    margin-top: 10 0px;
+    margin-left: 150px;
+  }
+  .center .reservation .reser-img2 {
+    margin-top: 350px;
+    transform: translateX(1665px);
+  }
+  .center .reservation .reser-top h3 {
+    font-size: x-large;
+  }
+  .center .reservation .reser-bottom {
+    height: 700px;
+  }
+  .center .reservation .reser-bottom input {
+    margin-left: 100px;
+  }
+  .center .reservation .reser-bottom .input-div, .center .reservation .reser-bottom .input-div1 {
+    margin-top: 150px;
+  }
+  .center .reservation .reser-bottom .input-div input {
+    width: 500px;
+    height: 70px;
+    margin-left: 150px;
+  }
+  .center .reservation .reser-bottom .input-div1 input {
+    width: 500px;
+    height: 70px;
+  }
+  footer .footer {
+    width: 100%;
+    height: 450px;
+    margin: 0;
+  }
+  footer .footer .foot-one {
+    padding: 50px;
+  }
+  footer .footer .foot-one img {
+    margin-top: 25px;
+  }
+  footer .footer .foot-one .foot-text {
+    display: block;
+    margin-top: 50px;
+  }
+  footer .footer .foot-one .foot-matn {
+    margin-top: 150px;
+  }
+  footer .footer .foot-two {
+    padding: 50px;
+  }
+  footer .footer .foot-two .foot-div {
+    margin-top: 120px;
+    margin-right: 100px;
+  }
+  footer .footer .foot-two .icon {
+    margin-left: 0px;
+  }
+}/*# sourceMappingURL=media.css.map */
